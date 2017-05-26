@@ -1,18 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://github.com/Discord4J/"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "icon-Discord-Filled",
+    "link": "https://discord.gg/NxGAeCY"
   }
 ]

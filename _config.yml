@@ -1,25 +1,25 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Discord4J
+description: Discord4J Project Site
+author: Discord4J
+logo: /static/img/avatar.png
+github: https://github.com/Discord4J
+about: A REST/WS wrapper for the official Discord Bot API.
 
 baseurl: ""
-url: ""
+url: "https://discord4j.com"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+# disqus_shortname: aboutashu
+google_analytics: UA-100029628-1
 
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
+# share:
+#   twitter_username: \#
+#   fb_appid: 000000000000
 
 
 enableTags: true
-tagarray: []
+tagarray: ["discord", "java", "discord4j", "d4j", "wrapper"]
 
 paginate: 20
 per_page: 20

@@ -1,34 +1,32 @@
 [
   {
-    "text": "Home",
+    "text": "About",
     "url": "/",
-    "icon": "fa-home",
-    "layout": "post"
+    "icon": "fa-info-circle"
   },
   {
-    "text": "About",
-    "url": "/about/",
-    "icon": "fa-comments"
+    "text": "Javadocs",
+    "url": "FIXME",
+    "icon": "fa-coffee"
+  },
+  {
+    "text": "Wiki",
+    "url": "FIXME",
+    "icon": "fa-wikipedia-w"
+  },
+  {
+    "text": "Downloads",
+    "url": "FIXME",
+    "icon": "fa-download"
   },
   {
     "text": "Projects",
     "url": "/projects",
-    "icon": "fa-desktop"
+    "icon": "fa-folder-open"
   },
   {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
-  },
-  {
-    "text": "Github",
-    "url": "/#",
-    "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
+    "text": "Builds",
+    "url": "FIXME",
+    "icon": "fa-server"
   }
 ]
