@@ -4,19 +4,24 @@
     "url": "/",
     "icon": "fa-info-circle"
   },
+   {
+    "text": "Posts",
+    "url": "/posts.html",
+    "icon": "fa-align-left"
+  },
   {
     "text": "Javadocs",
-    "url": "FIXME",
+    "url": "/docs",
     "icon": "fa-coffee"
   },
   {
     "text": "Wiki",
-    "url": "FIXME",
+    "url": "http://discord4j.readthedocs.io/en/latest/",
     "icon": "fa-wikipedia-w"
   },
   {
     "text": "Downloads",
-    "url": "FIXME",
+    "url": "/downloads",
     "icon": "fa-download"
   },
   {
@@ -26,7 +31,7 @@
   },
   {
     "text": "Builds",
-    "url": "FIXME",
+    "url": "https://circleci.com/gh/austinv11/Discord4J",
     "icon": "fa-server"
   }
 ]
