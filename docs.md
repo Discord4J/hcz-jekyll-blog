@@ -9,7 +9,7 @@ permalink: /docs
     <div id="buttons">
         <script type="text/javascript">
                 var btn = document.createElement("a");
-                btn.setAttribute("href", "http://austinv11.github.io/Discord4J/latestdoc.html");
+                btn.setAttribute("href", "https://discord4j.com/latestdoc.html");
                 btn.setAttribute("class", "btn");
                 btn.innerHTML = "Latest Stable Version Javadoc";
                 document.getElementById("buttons").appendChild(btn);
