@@ -11,7 +11,7 @@
   },
   {
     "text": "Javadocs",
-    "url": "/docs",
+    "url": "/docs.html",
     "icon": "fa-coffee"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "text": "Downloads",
-    "url": "/downloads",
+    "url": "/downloads.html",
     "icon": "fa-download"
   },
   {
