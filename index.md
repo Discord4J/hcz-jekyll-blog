@@ -6,7 +6,9 @@ permalink: /
 
 <!--TODO REPLACE HTML WITH MARKDOWN-->
 
-<p>Discord4J is a wrapper for <a href="https://discordapp.com/">Discord's</a> <a href="https://discordapp.com/developers/docs/intro">websocket and REST API</a>.
+<p><img src="/static/img/d4j_l.png"> 
+<br>
+Discord4J is a wrapper for <a href="https://discordapp.com/">Discord's</a> <a href="https://discordapp.com/developers/docs/intro">websocket and REST API</a>.
 It provides an easy-to-use implementation which has features suitable for both the most experienced and inexperienced Java programmers.
 <p><h3>Why use Discord4J?</h3>
 <p><ul>
