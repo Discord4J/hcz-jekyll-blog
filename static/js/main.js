@@ -1,5 +1,8 @@
 (function($){
-	$(document).ready(function(){
-		//Empty space. Fill this with your site specific JS code
-	});
+    $(document).ready(function(){
+        $('.logo-img').css({
+            'height': $('.header-panel.shadow-z-2').height() + "px",
+            'width': $('.header-panel.shadow-z-2').height() + "px"
+        });
+    });
 })(jQuery);
