@@ -8,11 +8,6 @@
 .row {
     display: flex;
 }
-.social-links {
-    position: absolute;
-    top: -15px;
-    right: 5px;
-}
 .list-group-item-heading {
     font-size: 200%;
 }
@@ -56,6 +51,11 @@ p.info a {
     max-width: 100%;
     height: auto;
 }
+.social-links {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
 .social-icons {
     margin: 20px 0 0;
 }
@@ -63,13 +63,16 @@ p.info a {
     background: rgba(255, 255, 255, 0.63);
     border-radius: 100%;
     text-align: center;
-    line-height: 20px;
-    font-size: 20px;
+    line-height: 30px;
+    font-size: 30px;
     color: #112b2b;
     padding: 5px;
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     display: inline-block;
+}
+.icon:first-of-type {
+    margin-right: 20px;
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
