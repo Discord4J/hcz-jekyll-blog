@@ -26,11 +26,17 @@ $text_size: 13px;
  * Project Block
  * //////////////////////////////////
  */
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .project-item.not-show{ display: none; }
 
 .project-outer {
 
     vertical-align: top;
+    width: 275px;
 
     .project-headlines {
 
