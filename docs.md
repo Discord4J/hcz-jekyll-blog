@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Javadocs
-permalink: /docs
+permalink: /docs.html
 ---
 <section class="page-header">
     <h1 class="project-name">Discord4J Javadocs</h1>
