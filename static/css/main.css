@@ -18,8 +18,6 @@
     font-size: 200%;
 }
 .logo-img {
-    height: 0px;
-    width: 0px;
     float: left;
 }
 .logo-turner {
@@ -84,9 +82,14 @@ p.info a {
     list-style: none;
     margin: 5px 0;
 }
-
+#navbar {
+    background-color: #1a4343;
+    height: 100%;
+    box-shadow: none;
+    border-radius: 0;
+}
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #007D72;
+    background: #112b2b;
 }
 li.current-menu-item:before {
     content: "";
@@ -96,7 +99,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #B8CA28;
+    background: #dd1d26;
 }
 .menu ul li a {
     font-size: 15px;
