@@ -14,7 +14,7 @@ permalink: /docs.html
                 btn.innerHTML = "Latest Stable Version Javadoc";
                 document.getElementById("buttons").appendChild(btn);
             </script>
-        <a href="https://jitpack.io/com/github/austinv11/Discord4j/dev-SNAPSHOT/javadoc/" class="btn">Latest Development Version Javadoc</a>
+        <a href="https://jitpack.io/com/github/Discord4J/Discord4J/dev-SNAPSHOT/javadoc/" class="btn">Latest Development Version Javadoc</a>
     </div>
 </section>
 
@@ -23,7 +23,7 @@ permalink: /docs.html
     <script type="text/javascript">
             //alert("test");
             var rawFile = new XMLHttpRequest();
-            rawFile.open("GET", "https://api.github.com/repos/austinv11/Discord4j/releases", true);
+            rawFile.open("GET", "https://api.github.com/repos/Discord4J/Discord4J/releases", true);
             rawFile.onreadystatechange = function () {
                 var list = document.createElement("ul");
                 document.getElementById("list").appendChild(list);
@@ -34,7 +34,7 @@ permalink: /docs.html
                             var release = releases[i]
                             var version = release.tag_name
                              var btn = document.createElement("li");
-                             btn.innerHTML = "<a href=https://jitpack.io/com/github/austinv11/Discord4j/"+version+"/javadoc/>"+version+"</a>"
+                             btn.innerHTML = "<a href=https://jitpack.io/com/github/Discord4J/Discord4J/"+version+"/javadoc/>"+version+"</a>"
                              list.appendChild(btn);
                         }
                     }
