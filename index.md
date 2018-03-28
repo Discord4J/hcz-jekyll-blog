@@ -23,4 +23,4 @@ It provides an easy-to-use implementation which has features suitable for both t
       This means it quickly gets updated to support the latest Discord changes (there are always a lot of them).</li>
       <li>We have our own <a href="https://discord.gg/NxGAeCY">Discord server!</a> Alternatively, we have a support channel on the <a href="https://discord.gg/0SBTUU1wZTU7PCok">Discord API server</a>.</li>
     </ul>
-<p>For a more detailed explanation of the API, please take a look at its <a href="https://github.com/austinv11/Discord4J/blob/master/README.md">README on the Github repository</a>.
+<p>For a more detailed explanation of the API, please take a look at its <a href="https://github.com/Discord4J/Discord4J/blob/master/README.md">README on the Github repository</a>.
